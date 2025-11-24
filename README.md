@@ -48,6 +48,6 @@ On Codespaces
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Hydration_Homeostasis_Tracker.git
+   git clone https://fluffy-giggle-45q66vr5qgv2g47.github.dev/
    cd Hydration_Homeostasis_Tracker
    
