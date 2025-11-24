@@ -1,6 +1,6 @@
 # Hydration-Homeostasis-Tracker
 Python project modeling hydration balance and homeostasis using daily activity data and vitals.
-Features
+## Features
 - Calculates recommended daily water intake
 - Adjusts recommendations based on:
   - Body weight
@@ -11,12 +11,16 @@ Features
 
 ---
 
-Science
+## Science
 This tracker is based on physiological principles:
 - Water requirement scales with body mass  
 - Sweat losses increase with exercise  
 - Heat raises fluid loss  
 - Dehydration disrupts homeostasis (blood volume, temperature regulation, kidney function)
+
+
+
+## How to use
 
 ---
 Follow the prompts to enter:
@@ -37,12 +41,17 @@ Hydration percentage
 
 Hydration status ("Optimal", "Mild Dehydration", or "Dehydrated")
 
-A short biological explanation of your hydration status
+A short biological explanation of your hydration status\
+## Requirements
 Code
 - Python 3
 - pandas (optional)
 - matplotlib (optional)
 - datetime
+
+
+
+## Running on codespaces
 
 On Codespaces
 ## How to Run
