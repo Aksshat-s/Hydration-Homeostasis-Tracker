@@ -19,7 +19,25 @@ This tracker is based on physiological principles:
 - Dehydration disrupts homeostasis (blood volume, temperature regulation, kidney function)
 
 ---
+Follow the prompts to enter:
 
+Body weight (kg)
+
+Daily water intake (liters)
+
+Exercise duration (minutes)
+
+Ambient temperature (°F)
+
+The program will output:
+
+Recommended daily water intake
+
+Hydration percentage
+
+Hydration status ("Optimal", "Mild Dehydration", or "Dehydrated")
+
+A short biological explanation of your hydration status
 Code
 - Python 3
 - pandas (optional)
@@ -27,3 +45,9 @@ Code
 - datetime
 
 On Codespaces
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Hydration_Homeostasis_Tracker.git
+   cd Hydration_Homeostasis_Tracker
+   
